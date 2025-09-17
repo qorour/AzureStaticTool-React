@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  gap: 4rem;
+  align-items: flex-start;
+}
+
+.left-column {
+  flex: 1;
+  align-self: start;
+}
+
+.middle-column {
+  flex: 2;
+}
+
+
+.right-column {
+  flex: 3;
+}
+
+.Homepage {
+  padding: 3rem;
+}
