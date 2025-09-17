@@ -1,4 +1,8 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+pplus.mp4 filter=lfs diff=lfs merge=lfs -text
+setandinspect.mp4 filter=lfs diff=lfs merge=lfs -text
+cappsexample.mp4 filter=lfs diff=lfs merge=lfs -text
+AutoClock-Technical-Promo-Video.mp4 filter=lfs diff=lfs merge=lfs -text
 public/*.mp4 filter=lfs diff=lfs merge=lfs -text
 public/*.png filter=lfs diff=lfs merge=lfs -text
 public/*.jpg filter=lfs diff=lfs merge=lfs -text
