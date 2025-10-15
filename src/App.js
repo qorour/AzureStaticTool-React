@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import QuoteCounter from './QuoteCounter';
+// import QuoteCounter from './QuoteCounter';
 
 import ren_logo from './new_logo.gif';
 
