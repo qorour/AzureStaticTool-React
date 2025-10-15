@@ -243,13 +243,13 @@ function App() {
             <img
               src="./centrallogo.png"
               alt="Central Logo"
-              style={{ width: '450px', height: '90px', cursor: 'pointer' }}
+              style={{ width: '430px', height: '90px', cursor: 'pointer' }}
               onClick={() => window.open('https://renishawplc.sharepoint.com/sites/MTPPCSoftware/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMTPPCSoftware%2FShared%20Documents%2FCentral&viewid=a3c15553%2D3791%2D46d5%2D920c%2Db731ee1e8d93', '_blank', 'noopener,noreferrer')}
             />
             <img
-              src="./reporterimage.jpg"
+              src="./reporterinaction.png"
               alt="Reporter Logo"
-              style={{ width: '250px', height: '250px', cursor: 'pointer' }}
+              style={{ width: '400px', height: '240px', cursor: 'pointer' }}
               onClick={() => window.open('https://renishawplc.sharepoint.com/sites/MTPPCSoftware/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMTPPCSoftware%2FShared%20Documents%2FGeneral%20Sales%20Info%20%28CNC%20%26%20PC%20Software%29&viewid=a3c15553%2D3791%2D46d5%2D920c%2Db731ee1e8d93', '_blank', 'noopener,noreferrer')}
             />
           </div>
