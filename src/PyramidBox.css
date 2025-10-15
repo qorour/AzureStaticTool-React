@@ -1,0 +1,19 @@
+.image-box {
+    border: 2px solid #ccc;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    border-bottom: 100px orange;
+    border-left: 50px orange;
+    border-right: 50px orange;
+}
+
+.image-box img{
+    max-width: 100%;
+    height: "200px"
+}
+
+.image-box img:hover{
+    opacity: 0.8;
+    transition:opacity 0.3s ease;
+}
