@@ -5,8 +5,9 @@
     
     "routes": [
         {
-        "route": "/*",
-        "allowedRoles": ["authenticated"]
+            "route": "/*",
+            "allowedRoles": ["authenticated"],
+            "rewrite": "/.auth/login/aad"
         }
     ]
 }

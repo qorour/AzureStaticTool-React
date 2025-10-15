@@ -8,6 +8,7 @@ function App() {
   
   return (
       <div className="Homepage">
+
         <div className="container">
           {/* Left/Title Column */}
           <div className="left-column">
