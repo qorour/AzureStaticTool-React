@@ -56,7 +56,7 @@ function App() {
                 MSP: 
               </p>
               <video width="600" controls loop>
-                <source src="/AutoClock-Technical-Promo-Video.mp4" type="video/mp4" />
+                <source src="https://qorourtest.blob.core.windows.net/mtpwebapp-files/AutoClock-Technical-Promo-Video.mp4" type="video/mp4" />
                 ERROR: Your browser does not support the video tag.
               </video>
               <p style={{fontSize: '18px', color: 'black'}}>
@@ -78,7 +78,7 @@ function App() {
                 Productivity+: 
               </p>
               <video width="600" controls loop>
-                <source src="/pplus.mp4" type="video/mp4" />
+                <source src="https://qorourtest.blob.core.windows.net/mtpwebapp-files/pplus.mp4" type="video/mp4" />
                 ERROR: Your browser does not support the video tag.
               </video>
               <p style={{fontSize: '18px', color: 'black'}}>
@@ -101,7 +101,7 @@ function App() {
                 CappsNC: 
               </p>
               <video width="600" controls loop>
-                <source src="/cappsexample.mp4" type="video/mp4" />
+                <source src="https://qorourtest.blob.core.windows.net/mtpwebapp-files/cappsexample.mp4" type="video/mp4" />
                 ERROR: Your browser does not support the video tag.
               </video>
               <p style={{fontSize: '18px', color: 'black'}}>
@@ -122,7 +122,7 @@ function App() {
                 Set and Inspect: 
               </p>
               <video width="600" controls loop>
-                <source src="/setandinspect.mp4" type="video/mp4" />
+                <source src="https://qorourtest.blob.core.windows.net/mtpwebapp-files/setandinspect.mp4" type="video/mp4" />
                 ERROR: Your browser does not support the video tag.
               </video>
               <p style={{fontSize: '18px', color: 'black'}}>
